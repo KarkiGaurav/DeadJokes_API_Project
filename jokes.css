@@ -1,0 +1,38 @@
+
+.container {
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color: aquamarine;
+    height: 8cm;
+    width: 13cm;
+    border-style: outset;
+    border-color: rgb(165, 141, 141);
+}
+
+.container h3{
+    text-align: center;
+    font-size: 39px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+#joke{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Brush Script MT', cursive;
+    color: rgb(83, 24, 54);
+}
+
+.container #joke-btn{
+    margin-top: 60px;
+    margin-left: 15%;
+    border-radius: 20%;
+    background-color: darkgreen;
+    cursor: pointer;
+    position: fixed;
+}
+
+.container #joke-btn:hover{
+    background-color: aquamarine;
+}
+    
